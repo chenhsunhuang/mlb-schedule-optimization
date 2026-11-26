@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib
+notebook
+# Install gurobipy separately for notebook 02 with a suitable license.

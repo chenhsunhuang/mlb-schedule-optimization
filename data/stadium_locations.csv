@@ -1,0 +1,31 @@
+Team,Stadium,City,Latitude,Longitude,League,Division
+NYY,Yankee Stadium,"New York, NY",40.8292,-73.9264,AL,East
+BOS,Fenway Park,"Boston, MA",42.3464,-71.0975,AL,East
+TOR,Rogers Centre,"Toronto, ON",43.6414,-79.3892,AL,East
+TBR,Tropicana Field,"St. Petersburg, FL",27.7683,-82.6533,AL,East
+BAL,Camden Yards,"Baltimore, MD",39.2839,-76.6217,AL,East
+CHW,Guaranteed Rate Field,"Chicago, IL",41.83,-87.6339,AL,Central
+CLE,Progressive Field,"Cleveland, OH",41.4958,-81.6853,AL,Central
+DET,Comerica Park,"Detroit, MI",42.3392,-83.0486,AL,Central
+KCR,Kauffman Stadium,"Kansas City, MO",39.0514,-94.4806,AL,Central
+MIN,Target Field,"Minneapolis, MN",44.9817,-93.2783,AL,Central
+HOU,Minute Maid Park,"Houston, TX",29.7569,-95.3556,AL,West
+LAA,Angel Stadium,"Anaheim, CA",33.8003,-117.8828,AL,West
+OAK,Oakland Coliseum,"Oakland, CA",37.7517,-122.2006,AL,West
+SEA,T-Mobile Park,"Seattle, WA",47.5914,-122.3325,AL,West
+TEX,Globe Life Field,"Arlington, TX",32.7474,-97.0842,AL,West
+NYM,Citi Field,"New York, NY",40.7569,-73.8458,NL,East
+PHI,Citizens Bank Park,"Philadelphia, PA",39.9058,-75.1664,NL,East
+ATL,Truist Park,"Atlanta, GA",33.894,-84.4642,NL,East
+MIA,loanDepot Park,"Miami, FL",25.7781,-80.2197,NL,East
+WSH,Nationals Park,"Washington, DC",38.8728,-77.0075,NL,East
+CHC,Wrigley Field,"Chicago, IL",41.9483,-87.6556,NL,Central
+STL,Busch Stadium,"St. Louis, MO",38.6225,-90.1931,NL,Central
+MIL,American Family Field,"Milwaukee, WI",43.0283,-87.9711,NL,Central
+CIN,Great American Ball Park,"Cincinnati, OH",39.0975,-84.5067,NL,Central
+PIT,PNC Park,"Pittsburgh, PA",40.4469,-80.0058,NL,Central
+LAD,Dodger Stadium,"Los Angeles, CA",34.0736,-118.24,NL,West
+SFG,Oracle Park,"San Francisco, CA",37.7783,-122.3894,NL,West
+SDP,Petco Park,"San Diego, CA",32.7073,-117.1566,NL,West
+COL,Coors Field,"Denver, CO",39.7561,-104.9942,NL,West
+ARI,Chase Field,"Phoenix, AZ",33.4453,-112.0669,NL,West
