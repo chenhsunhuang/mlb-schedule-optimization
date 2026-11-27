@@ -54,8 +54,10 @@ The original course report documented nine Gurobi experiments using 4, 15, or 30
 | 15 | 5 | 3,600 | Time limit; reported incumbent |
 | 15 | 9 | 3,600 | Time limit; reported incumbent |
 | 30 | 1 | 3,600 | Time limit; no reported feasible solution |
-| 30 | 5 | — | Resource failure |
-| 30 | 9 | — | Resource failure |
+| 30 | 5 | — | Run terminated due to system crash |
+| 30 | 9 | — | Run terminated due to system crash |
+
+The two largest instances could not be completed due to computational resource constraints on the available hardware.
 
 ![Reported Gurobi runtime by scenario](figures/gurobi_runtime.png)
 
