@@ -61,7 +61,7 @@ The two largest instances could not be completed due to computational resource c
 
 ![Reported Gurobi runtime by scenario](figures/gurobi_runtime.png)
 
-The four-team runs completed in under 32 seconds, whereas the larger instances reached the one-hour time limit or encountered resource failures. These observations illustrate the computational challenges of scaling integer programming to larger scheduling problems.
+The four-team runs completed in under 32 seconds, whereas the larger instances either reached the one-hour time limit or were terminated due to system crashes. These observations illustrate the computational challenges of scaling integer programming to larger scheduling problems.
 
 See the [reported results](results/reported_gurobi_results.csv) and [methodology and limitations](docs/methodology_and_limitations.md).
 
