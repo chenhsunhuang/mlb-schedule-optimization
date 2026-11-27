@@ -63,6 +63,8 @@ The four-team runs completed in under 32 seconds, whereas the larger instances r
 
 See the [reported results](results/reported_gurobi_results.csv) and [methodology and limitations](docs/methodology_and_limitations.md).
 
+From an operational perspective, these findings highlight the importance of balancing travel cost minimization with computational tractability. While integer programming provides a systematic framework for evaluating scheduling alternatives, large-scale league scheduling may require decomposition or heuristic approaches to obtain feasible schedules within practical computational limits.
+
 ## Running the Notebooks
 
 Install dependencies in an isolated environment:
